@@ -8,5 +8,5 @@ module.exports = function reverse (n)
  //   }
  //   result = result.join('');
  //   return result;
-    return tmp;
+    return Number(tmp);
 }
